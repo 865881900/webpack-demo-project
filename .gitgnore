@@ -1,5 +1,5 @@
 /node_modules/*
 /logs/*
 /.idea/*
-/builder-webpack/node_modules/*
-/builder-webpack/test/smoke/template/node_modules/*
+
+/test/smoke/template/node_modules/*
