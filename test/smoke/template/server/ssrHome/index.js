@@ -1,8 +1,6 @@
 import React from 'react';
 import './index.scss';
 
-
-
 class SsrHome extends React.Component {
   constructor() {
     super(...arguments);
@@ -17,4 +15,4 @@ class SsrHome extends React.Component {
   }
 }
 
-export const SSRHome = <SsrHome/>
+export const SSRHome = <SsrHome />;
